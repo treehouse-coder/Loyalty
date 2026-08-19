@@ -40,7 +40,7 @@ const MemberInfoCard = {
 >
 
     <img
-        src="/logo/logo.png"
+        src="./logo/logo.png"
         alt=""
         class="reward-watermark-logo"
     >
