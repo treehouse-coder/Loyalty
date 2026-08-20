@@ -13,12 +13,10 @@ const AddMemberForm = {
             <div class="page-header">
 
                 <h2>
-                    Add Member
+                    Register new member
                 </h2>
 
-                <p>
-                    Register new member
-                </p>
+                
 
             </div>
 

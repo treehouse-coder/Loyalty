@@ -13,12 +13,9 @@ const StampForm = {
             <div class="page-header">
 
                 <h2>
-                    Stamp Member
+                    Add stamp to member
                 </h2>
 
-                <p>
-                    Add stamp to member
-                </p>
 
             </div>
 

@@ -13,12 +13,10 @@ const UsedForm = {
         <div class="page-header">
 
             <h2>
-                Used
+                Use Loyalty Card
             </h2>
 
-            <p>
-                Use member stamp
-            </p>
+            
 
         </div>
 
